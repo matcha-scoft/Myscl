@@ -13,7 +13,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-const double eps = 1e-8;
+const double eps = 1e-9;
 const double pi = acos(-1.0);
 const int maxn = 100;//多边形类
 
